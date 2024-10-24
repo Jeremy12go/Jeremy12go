@@ -21,8 +21,8 @@
 
 ###
 
-<p align="left">- I'm student to engeniere of computation, black-end and database enthusiast.<br>
-- 📚 I'm currently learning differents design patterns and reinforcing my knowledge of mathematic's applications in the algorithmic.<br>- ⚡Beside in my free time, I enjoy coding to problems of leetcode, diving into the resolution of problems for different case.</p>
+<p align="left">- I'm a student engineer of computation, black-end and database enthusiast.<br>
+- 📚 Currently, I am learning different development methodologies and work architectures.<br>- ⚡ Besides in my free time, I enjoy coding to problems of leetcode, diving into resolving problems for different cases.</p>
 
 ###
 
@@ -33,13 +33,25 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github_logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="40" alt="C logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  height="40" alt="C logo"  />
   <img width="12" />
 </div>
 
