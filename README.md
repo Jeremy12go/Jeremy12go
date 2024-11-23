@@ -1,6 +1,14 @@
-<h1 align="center">👋 I'm Jeremy 💻</h1>
+<!-- Saludo y presentación -->
+
+<h1 align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jeremy 💻 </h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+Developer;Engineering+Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs+&#10084"></a>
+</p>
 
 ###
+
+<!-- Redes y medios de comunicación -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeremy-arriagada-a3424b246/">
@@ -11,48 +19,25 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeremy12go.jeremy12go&"  />
-</div>
-
-###
+<!-- Itereces -->
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
-###
-
-<p align="left">- I'm a student engineer of computation, black-end and database enthusiast.<br>
-- 📚 Currently, I am learning different development methodologies and work architectures.<br>- ⚡ Besides in my free time, I enjoy coding to problems of leetcode, diving into resolving problems for different cases.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  - I'm a student engineer of computation, black-end and database enthusiast.<br>
+  - 📚 Currently, I am learning different development methodologies and work architectures.<br>
+  - ⚡ Besides in my free time, I enjoy coding to problems of leetcode, diving into resolving problems for different cases.
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github_logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  height="40" alt="C logo"  />
-  <img width="12" />
-</div>
+<!-- Tecnologias y herramientas -->
+<h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Language and tools</h3>
 
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,discord,python,c,java,php,html,css,js,react,nodejs,mysql,postgresql&perline=14" />
+  </a>
+  <!-- Habilidades por aprender ts,go,nextjs,express,mongodb,aws,azure,googlecloud -->
+</p>
+
