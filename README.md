@@ -24,9 +24,9 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
 <p align="left">
-  - I'm a student engineer of computation, black-end and database enthusiast.<br>
+  - I'm a student engineer of computation, black-end and database developer.<br>
   - 📚 Currently, I am learning different development methodologies and work architectures.<br>
-  - ⚡ Besides in my free time, I enjoy coding to problems of leetcode, diving into resolving problems for different cases.
+  - ⚡ Besides in my free time, I enjoy coding problems of leetcode, diving into resolving issues to apply the best possible solution in new projects.
 </p>
 
 ###
@@ -36,8 +36,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,python,c,java,php,html,css,js,react,nodejs,mysql,postgresql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,python,c,java,spring,hibernate,gradle,php,react,nodejs,mysql,postgresql,postman&perline=14" />
   </a>
-  <!-- Habilidades por aprender ts,go,nextjs,express,mongodb,aws,azure,googlecloud -->
+  <!-- Habilidades por aprender dotnet,nextjs,express,mongodb,aws,azure,googlecloud -->
 </p>
 
