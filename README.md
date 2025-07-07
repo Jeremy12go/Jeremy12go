@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,c,java,spring,hibernate,gradle,PHP,react,nodejs,express,mysql,PostgreSQL,mongodb,postman,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,python,c,java,spring,hibernate,gradle,php,react,nodejs,express,mysql,postgreSQL,mongodb,postman,docker&perline=14" />
   </a>
   <!-- Habilidades por aprender dotnet,nextjs,aws,azure,googlecloud -->
 </p>
