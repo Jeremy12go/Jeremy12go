@@ -24,7 +24,7 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
 <p align="left">
-  - I'm a student engineer of computation, black-end and database developer.<br>
+  - I'm a student engineer of computation, back-end and database developer.<br>
   - 📚 Currently, I am learning different development methodologies and work architectures.<br>
   - ⚡ Besides in my free time, I enjoy coding problems of leetcode, diving into resolving issues to apply the best possible solution in new projects.
 </p>
