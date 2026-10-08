@@ -14,7 +14,7 @@
 Backend Developer Junior with experience in building REST APIs and layered architectures using Node.js (TypeScript) and Java (Spring Boot).
   - Experience in system migration, performance optimization with Redis, and secure APIs (JWT, OAuth2)
   - Strong foundations in databases (PostgreSQL, MongoDB)
-  - Interested in backend development and cybersecurity
+  - Interested in backend development and DevOps
   - Engineering student in Computer Science
 
 
