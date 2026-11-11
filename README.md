@@ -23,7 +23,7 @@ Backend Developer Junior with experience in building REST APIs and layered archi
 
 | Backend | Databases | DevOps / Tools | Frontend (secondary) |
 |--------|-----------|----------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,nodejs,express,javascript,typescript,jest,php,laravel,py,fastapi&perline=4" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,postman,docker,gcp,jenkins,md,nginx,npm,pnpm,&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,javascript,typescript,jest,php,laravel,py,fastapi&perline=4" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,postman,docker,gcp,jenkins,md,nginx,npm,pnpm,&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" /> |
 
 
 
