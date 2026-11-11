@@ -1,6 +1,6 @@
 <!-- Saludo y presentación -->
 ##  Hi, I'm Jeremy
-**Backend Developer Junior | Node.js | Spring Boot**
+**Backend Developer Junior | Node.js**
 
 <!-- Redes y medios de comunicación -->
 <a href="https://www.linkedin.com/in/jeremy-arriagada-a3424b246/">
@@ -11,9 +11,9 @@
 <!-- Itereces -->
 ## About Me
 
-Backend Developer Junior with experience in building REST APIs and layered architectures using Node.js (TypeScript) and Java (Spring Boot).
+Backend Developer Junior with experience in building REST APIs and layered architectures using Node.js (TypeScript).
   - Experience in system migration, performance optimization with Redis, and secure APIs (JWT, OAuth2)
-  - Strong foundations in databases (PostgreSQL, MongoDB)
+  - Strong foundations in databases (PostgreSQL, MongoDB, Redis)
   - Interested in backend development and DevOps
   - Engineering student in Computer Science
 
@@ -23,7 +23,7 @@ Backend Developer Junior with experience in building REST APIs and layered archi
 
 | Backend | Databases | DevOps / Tools | Frontend (secondary) |
 |--------|-----------|----------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,nodejs,express,javascript,typescript&perline=4" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,postman,docker,gcp,jenkins&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,nodejs,express,javascript,typescript,jest,php,laravel,py,fastapi&perline=4" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,postman,docker,gcp,jenkins,md,nginx,npm,pnpm,&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" /> |
 
 
 
